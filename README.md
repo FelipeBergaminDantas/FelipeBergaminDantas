@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Felipe Bergamin Dantas, <br>Faço faculdade de engenharia da computação na FAM<br>Desenvolvedor web front-end iniciante<br><br>Habilidades:<br>JavaScript<br>HTML<br>CSS<br>TypeScript<br>React
+Me chamo Felipe Bergamin Dantas, <br>Faço faculdade de engenharia da computação na UNIFECAF<br>Desenvolvedor web front-end iniciante<br><br>Habilidades:<br>JavaScript<br>HTML<br>CSS<br>TypeScript<br>React
 
 
 ## 🌐 Socials:
